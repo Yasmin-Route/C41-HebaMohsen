@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* section1 */
+#bakery{
+    background-image: url(drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    height:100vh;
+}
+.logo{
+    margin-left:60px ;
+    padding-top: 20px;
+    display: inline-block;
+}
+.header{
+    float: right;
+    margin-top: 30px;
+    margin-right: 70px;
+ }
+ .header a{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    font-size:18px ;
+    font-family: 'Alegreya', serif;
+ }
+ .artical{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+ }
+ .wel{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 22px;
+    line-height: 40.92px;
+    font-weight: 400;
+ }
+ .artical h1{
+    font-family: 'Alegreya', serif;
+    font-size: 76px;
+    line-height:91.2px;
+ }
+ .prag{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 24px;
+    line-height:44.64px;
+ }
+ .btn{
+    border: 10px;
+    padding: 20px 30px;
+    margin: 5px;
+    border-radius: 4px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:16px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+ }
+ .btn-learn{
+   background-color:#8E7754 ; 
+ }
+ .btn-contact{
+    background-color: transparent;
+    border: 2px solid white;
+  }
+  /* section2 */
+  #sec2{
+    display: inline-block;
+    margin-top: 90px;
+  }
+ .img1{
+    width: 45%;
+    display: inline-block;
+    margin-left: 70px;
+ }
+ .img1 img{
+    width: 100%;
+ }
+ .desc{
+    width: 45%;
+    display: inline-block;
+    margin-left: 60px;
+    vertical-align: top;
+    margin-top: 50px;
+ }
+ .list{
+    list-style-type: none;
+ }
+ .desc img{
+    display: inline-block;
+ }
+ .desc p{
+    display: inline-block;
+    color:#686868;
+    font-size:17px;
+    line-height:31.62px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight:400;
+ }
+ .desc h2{
+    color:#303030;
+    font-family: 'Alegreya', serif;
+    font-size:32px;
+    line-height:60px;
+    font-weight:400;
+    margin-bottom: 20px;
+ }
+ /* section3 */
+ #sec3{
+    margin-top: 90px;
+    background-color:#F8F8F8 ;
+ }
+ .location{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin: 250px 10px 250px 60px;
+ }
+ .img2 img{
+    width: 100%;
+ }
+ .img2{
+    display: inline-block;
+    width: 45%; 
+    margin: 150px 10px 150px 30px;
+ }
+ .location h2{
+    color: #303030;
+    font-family: 'Alegreya', serif;
+    font-size: 32px;
+    line-height:50px;
+    font-weight: 400;
+    margin-bottom: 20px;
+ }
+ .location p{
+    color: #686868;
+    font-family: 'Alegreya Sans', sans-serif;
+    line-height: 31.62px;
+    font-weight: 400;
+ }
+ #sec4{
+   margin-top: 90px;
+ }
+ .baking h3{
+   text-align: center;
+   color: #303030;
+   font-family: 'Alegreya', serif;
+   font-size: 30px;
+   line-height: 41.4px;
+   font-weight: 400;
+ }
+ .baking p{
+   color: #888888;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 17px;
+   line-height: 31.62px;
+   margin:17px 245px 0px;
+   font-weight: 400;
+   text-align: center;
+ }
+ .photo1,.photo2,.photo3{
+   width: 30%;
+   float: left;
+   margin: 20px;
+ }
+ .clr{
+   clear: both;
+ }
+.imgs img{
+   width: 400px;
+   margin: 40px 20px 40px 20px;
+}
+.imgs p{
+   text-align: center;
+   color:#686868 ;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 17px;
+   line-height: 31.62px;
+   font-weight: 400;
+
+
+}
+.imgs h4{
+   text-align: center;
+   color: #303030;
+   font-family: 'Alegreya', serif;
+   font-size: 22px;
+   line-height: 30.36px;
+   font-weight: 400;
+}
+#sec5{
+   background-color:#F8F8F8 ;
+   margin-top: 90px;
+}
+.contact{
+   float: left;
+   margin: 130px 10px 130px 80px;
+}
+.contact h2{
+   color: #303030;
+   font-family: 'Alegreya', serif;
+   font-size: 32px;
+   line-height: 44.16px;
+   font-weight: 400;  
+   margin-bottom: 30px;
+}
+.contact p{
+   color: #686868;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 17px;
+   line-height: 31.62px;
+   font-weight: 400;
+   margin-bottom: 15px;
+}
+.contact ul{
+   list-style-type: none;
+   color: #686868;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 17px;
+   line-height: 31.62px;
+   font-weight: 400;
+}
+ul img{
+   margin-right: 8px;
+   margin-bottom: 2px;
+}
+.map{
+   float: right;
+   margin: 130px 10px 130px 80px;
+
+}
+.clr{
+   clear: both;
+}
+.footer1{
+   background-color: #403D38;
+}
+.about{
+   float: left;
+
+}
+.details{
+   float:right;
+
+}
+.opening{
+   float:right;
+
+}
+.special{
+   float: left;
+
+}
+.clr{
+   clear: both;
+}
+.footer1{
+   padding:60px 40px 60px 40px;
+}
+.special,.opening,.details,.about{
+   margin: 40px 20px 40px 40px;
+}
+.h4{
+   color: white;
+   font-family: 'Alegreya', serif;
+   font-size: 18px;
+   line-height: 24.84px;
+   font-weight: 400;  
+}
+.about p{
+   color: #969696;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 16px;
+   line-height: 29.76px;
+   font-weight: 400;
+}
+.special ul{
+  list-style-type: none;
+  color: #969696;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 16px;
+  line-height: 31.62px;
+  font-weight: 400;
+}
+.details ul{
+   list-style-type: none;
+}
+.details p{
+   color: #969696;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 16px;
+   line-height: 31.62px;
+   font-weight: 400;
+}
+.details a{
+   color: #969696;
+   text-decoration: none;
+
+}
+.opening ul{
+   list-style-type: none;
+   color: #969696;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 16px;
+   line-height: 31.62px;
+   font-weight: 400;
+}
+.footer2{
+   background-color: #353330;
+   text-align: center;
+}
+.f1 img{
+   margin-top: 60px;
+}
+.footer2 p{
+   color: #777777;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 15px;
+   line-height: 27.9px;
+   font-weight: 400;
+   margin-top: 30px;
+}
+.icons img{
+   margin-bottom: 30px;
+}
+
